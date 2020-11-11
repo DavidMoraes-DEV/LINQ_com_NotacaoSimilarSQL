@@ -1,0 +1,12 @@
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\bin\Debug\netcoreapp3.1\LINQ_com_NotacaoSimilarSQL.exe
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\bin\Debug\netcoreapp3.1\LINQ_com_NotacaoSimilarSQL.deps.json
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\bin\Debug\netcoreapp3.1\LINQ_com_NotacaoSimilarSQL.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\bin\Debug\netcoreapp3.1\LINQ_com_NotacaoSimilarSQL.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\bin\Debug\netcoreapp3.1\LINQ_com_NotacaoSimilarSQL.dll
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\bin\Debug\netcoreapp3.1\LINQ_com_NotacaoSimilarSQL.pdb
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\obj\Debug\netcoreapp3.1\LINQ_com_NotacaoSimilarSQL.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\obj\Debug\netcoreapp3.1\LINQ_com_NotacaoSimilarSQL.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\obj\Debug\netcoreapp3.1\LINQ_com_NotacaoSimilarSQL.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\obj\Debug\netcoreapp3.1\LINQ_com_NotacaoSimilarSQL.dll
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\obj\Debug\netcoreapp3.1\LINQ_com_NotacaoSimilarSQL.pdb
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\obj\Debug\netcoreapp3.1\LINQ_com_NotacaoSimilarSQL.genruntimeconfig.cache

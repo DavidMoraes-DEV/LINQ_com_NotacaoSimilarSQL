@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\bin\Debug\netcoreapp3.1\LINQ_com-Lambda.exe
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\bin\Debug\netcoreapp3.1\LINQ_com-Lambda.deps.json
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\bin\Debug\netcoreapp3.1\LINQ_com-Lambda.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\bin\Debug\netcoreapp3.1\LINQ_com-Lambda.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\bin\Debug\netcoreapp3.1\LINQ_com-Lambda.dll
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\bin\Debug\netcoreapp3.1\LINQ_com-Lambda.pdb
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\obj\Debug\netcoreapp3.1\LINQ_com-Lambda.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\obj\Debug\netcoreapp3.1\LINQ_com-Lambda.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\obj\Debug\netcoreapp3.1\LINQ_com-Lambda.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\obj\Debug\netcoreapp3.1\LINQ_com-Lambda.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\obj\Debug\netcoreapp3.1\LINQ_com-Lambda.dll
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\obj\Debug\netcoreapp3.1\LINQ_com-Lambda.pdb
+C:\ProgramasCSharp\ConceitoDeLinq\LINQ_com-Lambda\LINQ_com-Lambda\obj\Debug\netcoreapp3.1\LINQ_com-Lambda.genruntimeconfig.cache
